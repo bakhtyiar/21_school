@@ -1,0 +1,5 @@
+main_tests.c
+main_test.c
+*.out
+*.o
+.DS_Store

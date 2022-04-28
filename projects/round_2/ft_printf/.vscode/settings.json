@@ -1,0 +1,28 @@
+{
+	"files.associations": {
+		"stdio.h": "c",
+		"ft_printf.h": "c",
+		"filesystem": "c",
+		"algorithm": "c",
+		"random": "c",
+		"__functional_base": "c",
+		"__functional_base_03": "c",
+		"__hash_table": "c",
+		"__tree": "c",
+		"__tuple": "c",
+		"array": "c",
+		"chrono": "c",
+		"type_traits": "c",
+		"functional": "c",
+		"limits": "c",
+		"memory": "c",
+		"ratio": "c",
+		"tuple": "c",
+		"utility": "c",
+		"variant": "c",
+		"locale": "c",
+		"ft_printf_bonus.h": "c",
+		"stdarg.h": "c",
+		"libft.h": "c"
+	}
+}
