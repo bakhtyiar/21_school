@@ -1,3 +1,3 @@
 # 21_school
-## School projects solutions
+## Edu projects on C, C++, bash
 ![preview image](./github_preview.jpg)
